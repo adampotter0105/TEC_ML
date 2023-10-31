@@ -1,3 +1,4 @@
-.json
-.cif
-.png
+*.json
+*.cif
+*.png
+*.csv

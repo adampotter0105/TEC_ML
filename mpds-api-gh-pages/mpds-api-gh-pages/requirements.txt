@@ -1,6 +1,0 @@
-setuptools
-pandas
-ase
-mpds_client
-shapely[vectorized]
-scipy

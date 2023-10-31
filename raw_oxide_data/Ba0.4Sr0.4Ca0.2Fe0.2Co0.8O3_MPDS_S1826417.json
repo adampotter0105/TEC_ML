@@ -1,0 +1,55 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1128356-2",
+   "phase": "Ba0.4Sr0.4Ca0.2Fe0.2Co0.8O3/221/cP5",
+   "phase_id": 129628,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 221
+      }
+     ]
+    }
+   ],
+   "chemical_formula": "Ba0.4Sr0.4Ca0.2Fe0.2Co0.8O3",
+   "chemical_elements": [
+    "Ba",
+    "Ca",
+    "Co",
+    "Fe",
+    "O",
+    "Sr"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.00002145,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 298
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.0.7",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1128356",
+  "phase": "https://mpds.io/phase/Ba0.4Sr0.4Ca0.2Fe0.2Co0.8O3/221/cP5"
+ }
+}

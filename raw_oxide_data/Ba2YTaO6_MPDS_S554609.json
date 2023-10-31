@@ -1,0 +1,57 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1710250-8",
+   "phase": "Ba2YTaO6/87/tI20",
+   "phase_id": 48952,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 87
+      }
+     ]
+    },
+    {
+     "name": "Synthesis",
+     "text": "prepared by ceramic method at 1953 K for 4 h"
+    }
+   ],
+   "chemical_formula": "Ba2YTaO6 lt",
+   "chemical_elements": [
+    "Ba",
+    "O",
+    "Ta",
+    "Y"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": -0.0000055,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 298
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.2.0",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1710250",
+  "phase": "https://mpds.io/phase/Ba2YTaO6/87/tI20"
+ }
+}

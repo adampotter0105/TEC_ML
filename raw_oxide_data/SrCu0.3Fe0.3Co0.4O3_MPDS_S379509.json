@@ -1,0 +1,57 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1923598-4",
+   "phase": "SrCu0.3Fe0.3Co0.4O3/221/cP5",
+   "phase_id": 37628,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 221
+      }
+     ]
+    }
+   ],
+   "chemical_formula": "SrCu0.3Fe0.3Co0.4O3",
+   "chemical_elements": [
+    "Co",
+    "Cu",
+    "Fe",
+    "O",
+    "Sr"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.0000148,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "range": [
+       400.0,
+       780.0
+      ],
+      "units": "K"
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.0.7",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1923598",
+  "phase": "https://mpds.io/phase/SrCu0.3Fe0.3Co0.4O3/221/cP5"
+ }
+}

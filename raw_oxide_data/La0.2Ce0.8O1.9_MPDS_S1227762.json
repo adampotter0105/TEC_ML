@@ -1,0 +1,52 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1914741-7",
+   "phase": "La0.5Ce0.5O1.75/225/cF12",
+   "phase_id": 48943,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 225
+      }
+     ]
+    }
+   ],
+   "chemical_formula": "La0.5Ce0.5O1.75",
+   "chemical_elements": [
+    "Ce",
+    "La",
+    "O"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.00001272,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 298
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.0.7",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1914741",
+  "phase": "https://mpds.io/phase/La0.5Ce0.5O1.75/225/cF12"
+ }
+}

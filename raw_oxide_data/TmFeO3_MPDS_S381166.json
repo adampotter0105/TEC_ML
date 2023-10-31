@@ -1,0 +1,56 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1910682-3",
+   "phase": "TmFeO3/62/oP20",
+   "phase_id": 17756,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 62
+      }
+     ]
+    },
+    {
+     "name": "Sample form",
+     "text": "single crystals"
+    }
+   ],
+   "chemical_formula": "TmFeO3 orth",
+   "chemical_elements": [
+    "Fe",
+    "O",
+    "Tm"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": -0.000006,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 40.0
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.2.0",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1910682",
+  "phase": "https://mpds.io/phase/TmFeO3/62/oP20"
+ }
+}

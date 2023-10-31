@@ -1,0 +1,51 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1522959-4",
+   "phase": "Ag2O/224/cP6",
+   "phase_id": 14097,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 224
+      }
+     ]
+    }
+   ],
+   "chemical_formula": "Ag2O cub",
+   "chemical_elements": [
+    "Ag",
+    "O"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": -0.000004,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 300.0
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.0.7",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1522959",
+  "phase": "https://mpds.io/phase/Ag2O/224/cP6"
+ }
+}

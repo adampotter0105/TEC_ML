@@ -1,0 +1,57 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1918799-5",
+   "phase": "Ba0.5Cu0.5La0.5Fe0.5O2.74/221/cP5",
+   "phase_id": 122153,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 221
+      }
+     ]
+    }
+   ],
+   "chemical_formula": "Ba0.5Cu0.5La0.5Fe0.5O2.74",
+   "chemical_elements": [
+    "Ba",
+    "Cu",
+    "Fe",
+    "La",
+    "O"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.0000141,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "range": [
+       300.0,
+       650.0
+      ],
+      "units": "K"
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.0.7",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1918799",
+  "phase": "https://mpds.io/phase/Ba0.5Cu0.5La0.5Fe0.5O2.74/221/cP5"
+ }
+}

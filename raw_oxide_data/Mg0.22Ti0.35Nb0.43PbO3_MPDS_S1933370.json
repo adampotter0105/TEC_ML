@@ -1,0 +1,62 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1913945-8",
+   "phase": "Mg0.21Ti0.36Nb0.43PbO3/99/tP5",
+   "phase_id": 26498,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 99
+      }
+     ]
+    },
+    {
+     "name": "Synthesis",
+     "text": "crystals grown by modified Bridgman method"
+    },
+    {
+     "name": "Sample form",
+     "text": "single crystals, 5*5*25 mm<sup>3</sup>"
+    }
+   ],
+   "chemical_formula": "Mg0.21Ti0.36Nb0.43PbO3 rt tet",
+   "chemical_elements": [
+    "Mg",
+    "Nb",
+    "O",
+    "Pb",
+    "Ti"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": -5e-7,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 360.0
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.2.0",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1913945",
+  "phase": "https://mpds.io/phase/Mg0.21Ti0.36Nb0.43PbO3/99/tP5"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1522023-5",
+   "phase": "Ce0.8Sm0.06Dy0.14O1.9/225/cF12",
+   "phase_id": 139340,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 225
+      }
+     ]
+    }
+   ],
+   "chemical_formula": "Ce0.8Sm0.06Dy0.14O1.9",
+   "chemical_elements": [
+    "Ce",
+    "Dy",
+    "O",
+    "Sm"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.00001305,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 298
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.0.7",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1522023",
+  "phase": "https://mpds.io/phase/Ce0.8Sm0.06Dy0.14O1.9/225/cF12"
+ }
+}

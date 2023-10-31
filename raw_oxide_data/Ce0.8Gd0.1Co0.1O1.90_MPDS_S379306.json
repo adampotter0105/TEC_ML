@@ -1,0 +1,61 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1713577-2",
+   "phase": "Ce0.8Gd0.1Co0.1O2/225/cF12",
+   "phase_id": 37557,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 225
+      }
+     ]
+    },
+    {
+     "name": "Synthesis",
+     "text": "solid-state reaction at 1520-1750 K for 25-40 h with intermediate grindings"
+    },
+    {
+     "name": "Sample form",
+     "text": "polycrystalline samples; density 5.96 Mg m<sup>-3</sup> at rt, measured by Archimedes' method"
+    }
+   ],
+   "chemical_formula": "Ce0.8Gd0.1Co0.1O2",
+   "chemical_elements": [
+    "Ce",
+    "Co",
+    "Gd",
+    "O"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.0000119,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 473.0
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.2.0",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1713577",
+  "phase": "https://mpds.io/phase/Ce0.8Gd0.1Co0.1O2/225/cF12"
+ }
+}

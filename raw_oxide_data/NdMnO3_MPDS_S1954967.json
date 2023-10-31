@@ -1,0 +1,64 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1712799-3",
+   "phase": "NdMnO3/62/oP20",
+   "phase_id": 12274,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 62
+      }
+     ]
+    },
+    {
+     "name": "Synthesis",
+     "text": "mixed, heated at 1500-1650 K for 4-25 h"
+    },
+    {
+     "name": "Atmosphere",
+     "text": "air"
+    },
+    {
+     "name": "Sample form",
+     "text": "polycrystalline samples"
+    }
+   ],
+   "chemical_formula": "NdMnO3 ht2",
+   "chemical_elements": [
+    "Mn",
+    "Nd",
+    "O"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.00001,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 298
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.2.0",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1712799",
+  "phase": "https://mpds.io/phase/NdMnO3/62/oP20"
+ }
+}

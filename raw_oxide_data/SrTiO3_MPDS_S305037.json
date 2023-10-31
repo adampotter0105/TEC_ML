@@ -1,0 +1,52 @@
+{
+ "sample": {
+  "material": {
+   "entry": "P1902964-6",
+   "phase": "SrTiO3/221/cP5",
+   "phase_id": 18989,
+   "condition": [
+    {
+     "name": "Space group",
+     "scalar": [
+      {
+       "value": 221
+      }
+     ]
+    }
+   ],
+   "chemical_formula": "SrTiO3 rt",
+   "chemical_elements": [
+    "O",
+    "Sr",
+    "Ti"
+   ],
+   "object_repr": "P-A696917"
+  },
+  "measurement": [
+   {
+    "property": {
+     "name": "linear thermal expansion coefficient",
+     "units": "K-1",
+     "domain": "thermal and thermodynamic properties",
+     "scalar": 0.0000046,
+     "category": "thermal expansion"
+    },
+    "condition": [
+     {
+      "name": "Temperature",
+      "units": "K",
+      "scalar": 150.0
+     }
+    ],
+    "data_type": "peer_reviewed"
+   }
+  ]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.0.7",
+ "object_type": "P",
+ "reference": {
+  "entry": "https://mpds.io/entry/P1902964",
+  "phase": "https://mpds.io/phase/SrTiO3/221/cP5"
+ }
+}

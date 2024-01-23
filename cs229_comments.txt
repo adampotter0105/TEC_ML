@@ -1,0 +1,4 @@
+Exceptional project, especially for a one-person team. Great motivation and descriptions for feature generation. Figures are also beautiful and informative. 
+
+Some things to think about (if you were to potentially submit your work to a conference, for example). Can you find (or construct) appropriate baselines for your 
+task, even if it hasn't been studied before? Having an ablation study could be nice too. 
